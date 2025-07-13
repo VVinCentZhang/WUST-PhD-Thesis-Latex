@@ -3,7 +3,7 @@
 %%
 %% Based on :
 %%
-%% WUSTThesis.cls 2022/03/28 version V3.2
+%% HUSTThesis.cls 2022/03/28 version V3.1
 %%
 %% This is the unofficial LaTeX class for Master Thesis Template of
 %% Wuhan University of Science and Technology
