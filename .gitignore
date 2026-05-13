@@ -1,0 +1,41 @@
+# LaTeX compilation artifacts
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.glg
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.snm
+*.synctex*
+*.thm
+*.toc
+*.vrb
+*.xdv
+*.run.xml
+*.bcf
+
+# Output PDF (uncomment if you don't want to track the compiled thesis)
+main.pdf
+
+# Editor temp files
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+*.sublime-*
+
+# OS generated files
+.DS_Store
+Thumbs.db
